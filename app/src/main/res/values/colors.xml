@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="error_red">#FF3333</color>
+    <color name="man_back">#E1F0DA</color>
+
+    <color name="yellow">#FFF1BA</color>
+    <color name="orange">#FF9B71</color>
+    <color name="red">#E84855</color>
+    <color name="purple">#7A1F5D</color>
+</resources>
